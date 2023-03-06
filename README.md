@@ -6,5 +6,5 @@ conf t
 
 ## comando switch  
 ### criando vlan  
-´´´vlan id´´´  
+´´´ vlan id ´´´  
 EX: vlan 10
