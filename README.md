@@ -13,14 +13,14 @@ EX: name vlan10
 show vlan brief -> mostra as vlans existentes
 
 ### criando o trunk  
-interface gig0/0  
-switchport mode trunk
-show interface trunk
+interface gig0/0    
+switchport mode trunk  
+show interface trunk  
 
 
 ### setando as vlan  
-interface range fa0/1-8 -> modifica no range 0/0 até 0/8 da interaface fa  
-switchport access vlan 10  
+interface range fa0/1-8   
+switchport access vlan 10    
   
    
    
