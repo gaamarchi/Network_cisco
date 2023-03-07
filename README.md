@@ -1,7 +1,7 @@
 # Network_cisco
 repositorio para anotar comandos do packet tracer
 ## COMANDOS BÁICOS  
-enable
+enable  
 conf t
 
 ## comando switch  
