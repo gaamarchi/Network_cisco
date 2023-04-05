@@ -29,8 +29,8 @@ interface range fa0/1-8
 switchport access vlan 10    
   
 ### colocando um ip na vlan  
-` interface vlan <id>`
-`ip address <ip> <submask>`  
+` interface vlan <id>`  
+`ip address <ip> <submask>`    
    
    
 ## comando router  
