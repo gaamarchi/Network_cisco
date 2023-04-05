@@ -30,7 +30,10 @@ switchport access vlan 10
   
 ### colocando um ip na vlan  
 ` interface vlan <id>`  
-`ip address <ip> <submask>`    
+`ip address <ip> <submask>`  
+
+### definindo o gateway padrão  
+`ip default-gateway <ip_gateway>`  
    
    
 ## comando router  
