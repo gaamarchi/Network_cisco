@@ -6,9 +6,9 @@ conf t
 copy running-config startup-config  
 wr  
 ### adicionando senhas  
-enable secreat <senha_secreta>  
+`enable secreat <senha_secreta>`  
 line console 0   
-password <senha_console>    
+`password <senha_console>`    
 login  
 ## comando switch  
 ### criando vlan  
@@ -29,8 +29,8 @@ interface range fa0/1-8
 switchport access vlan 10    
   
 ### colocando um ip na vlan  
-interface vlan <id>  
-ip address <ip> <submask>  
+` interface vlan <id>`
+`ip address <ip> <submask>`  
    
    
 ## comando router  
