@@ -4,9 +4,9 @@ repositorio para anotar comandos do packet tracer
 enable  
 conf t  
 ### adicionando senhas  
-enable secreat <senha>  
+`enable secreat <senha>`  
 line console 0  
-password <senha>  
+`password <senha>`  
 login
 ## comando switch  
 ### criando vlan  
