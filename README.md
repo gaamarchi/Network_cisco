@@ -37,7 +37,7 @@ switchport access vlan 10
    
    
 ## comando router  
-### Subinteraces      
+### Subinterfaces      
 interface gig0/0.1 -> entrando na subnet   
 encapsulation dot1Q vlan_id native -> EX: encapsulation dot1Q  10 native  
 ip addresses IP SUBMASK  
