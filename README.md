@@ -3,7 +3,8 @@ repositorio para anotar comandos do packet tracer
 ## COMANDOS BÁSICOS  
 enable  
 conf t    
-copy running-config startup-config  or  wr
+copy running-config startup-config  
+wr  
 ### adicionando senhas  
 enable secreat <senha_secreta>  
 line console 0   
