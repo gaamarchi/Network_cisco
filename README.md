@@ -59,7 +59,8 @@ ip dhcp excluded-address IP_Inicio IP_FIM -> EX: ip dhcp excluded-address 192.16
 ![image](https://user-images.githubusercontent.com/101679723/230176218-ac07d03e-422d-42b4-af6b-77af04f418ed.png)    
   - branco n° de ips possiveis  
   - vermelho valor que deve colocar no lugar do x  
-  - conjunto de cores mostra a submask  
+  - conjunto de cores mostra a submask    
+- Note this table is based on TCM-security Ethical hacker 
     
   subredes comuns:  
   /24 256 ips 254 hosts uteis, utilizada por redes domesticas comuns    
