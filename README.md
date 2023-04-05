@@ -54,3 +54,7 @@ ip dhcp excluded-address IP_Inicio IP_FIM -> EX: ip dhcp excluded-address 192.16
   nota: podemos adicionar quantos networks quisermos
   
  
+## subredes
+  
+  ![image](https://user-images.githubusercontent.com/101679723/230175244-5b6a898e-fb4e-4d7f-a8d0-816fe9053cca.png)
+
