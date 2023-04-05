@@ -4,10 +4,10 @@ repositorio para anotar comandos do packet tracer
 enable  
 conf t  
 ### adicionando senhas  
-`enable secreat <senha>`  
-line console 0  
-`password <senha>`  
-login
+enable secreat <senha_secreta>  
+line console 0   
+password <senha_console>    
+login  
 ## comando switch  
 ### criando vlan  
 vlan id  
