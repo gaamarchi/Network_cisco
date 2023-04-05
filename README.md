@@ -36,7 +36,7 @@ network IP SUBMASK
 default-router IP_GATEWAY  
 ip dhcp excluded-address IP_Inicio IP_FIM -> EX: ip dhcp excluded-address 192.168.10.1 192.168.10.9  
 ### RIP
-  para que o rip aconteça precisamos digitar os seguintes comandos no rip  
+  para que o rip aconteça precisamos digitar os seguintes comandos no rip    
   `router rip`  
   `network <rede>` -> devemos subistituir <rede> pela rede que desejamos adicionar no rip  
   nota: podemos adicionar quantos networks quisermos
