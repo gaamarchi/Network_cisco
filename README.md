@@ -56,7 +56,11 @@ ip dhcp excluded-address IP_Inicio IP_FIM -> EX: ip dhcp excluded-address 192.16
  
 ## subredes
   
-  ![image](https://user-images.githubusercontent.com/101679723/230175244-5b6a898e-fb4e-4d7f-a8d0-816fe9053cca.png)     
+![image](https://user-images.githubusercontent.com/101679723/230176218-ac07d03e-422d-42b4-af6b-77af04f418ed.png)    
+  - branco n° de ips possiveis  
+  - vermelho valor que deve colocar no lugar do x  
+  - conjunto de cores mostra a submask  
+    
   subredes comuns:  
   /24 256 ips 254 hosts uteis, utilizada por redes domesticas comuns    
   /30 4 ips 2 hosts uteis, muito utilizada para fazer redes entre roteadores
