@@ -3,7 +3,11 @@ repositorio para anotar comandos do packet tracer
 ## COMANDOS BÁSICOS  
 enable  
 conf t  
-
+### adicionando senhas  
+enable secreat <senha>  
+line console 0  
+password <senha>  
+login
 ## comando switch  
 ### criando vlan  
 vlan id  
